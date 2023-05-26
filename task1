@@ -222,6 +222,7 @@ body
   height:200px;
   width:2000px;
   margin-top:-220px;
+  margin-left:300px;
 }
     </style>
     <meta charset="UTF-8">
